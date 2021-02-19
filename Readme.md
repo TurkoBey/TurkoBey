@@ -11,6 +11,10 @@ static void Main(string[] args)
 	{
 		Detaylar();
 	}
+	else
+	{
+		string contact = "apidev@outlook.com.tr";
+	}
 	Console.ReadLine();
 }
 private static void Details()
