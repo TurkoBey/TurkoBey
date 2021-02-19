@@ -13,7 +13,6 @@
 		}
 		Console.ReadLine();
 	}
-
 	private static void Details()
 	{
 		string name    = "Turko";
