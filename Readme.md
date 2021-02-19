@@ -19,10 +19,10 @@ static void Main(string[] args)
 }
 private static void Details()
 {
-	string name    = "Turko";
-	string surname = "Bey";
-	string mail    = "apidev@outlook.com.tr";
-	string welcome = "Welcome..";
+	string name        = "Turko";
+	string surname     = "Bey";
+	string mail        = "apidev@outlook.com.tr";
+	string welcome     = "Welcome..";
 }
 
 private static void Detaylar()
