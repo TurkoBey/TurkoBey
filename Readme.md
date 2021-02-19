@@ -5,15 +5,15 @@ static void Main(string[] args)
 {
 	if (lang==en)
 	{
-		Details();
+	     Details();
 	}
 	else if (lang==tr)
 	{
-		Detaylar();
+	     Detaylar();
 	}
 	else
 	{
-		string contact = "apidev@outlook.com.tr";
+	     string contact = "apidev@outlook.com.tr";
 	}
 	Console.ReadLine();
 }
