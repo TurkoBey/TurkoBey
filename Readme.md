@@ -38,7 +38,7 @@ private static void Detaylar()
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=TurkoBey&show_icons=true&theme=radical" />
 </a>
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TurkoBey&layout=compact&show_icons=true&theme=radical" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TurkoBey&layout=compact&show_icons=true&theme=radical" />
 </a>
 
 
