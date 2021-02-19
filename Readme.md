@@ -1,36 +1,41 @@
 # Hi, I'm TurkoBey 👋
 
 ```csharp
+private static string lang;
+private static string en;
+private static string tr;
+
 static void Main(string[] args)
 {
-    if (lang==en)
+    if (lang == en)
     {
-    	Details();
+        Console.WriteLine(Details());
     }
-    else if (lang==tr)
+    else if (lang == tr)
     {
-    	Detaylar();
+        Console.WriteLine(Detaylar());
     }
     else
     {
-    	string contact = "apidev@outlook.com.tr";
+        string contact = "apidev@outlook.com.tr";
     }
     Console.ReadLine();
 }
-private static void Details()
+private static string Details()
 {
-    string name        = "Turko";
-    string surname     = "Bey";
-    string mail        = "apidev@outlook.com.tr";
-    string welcome     = "Welcome...";
+    string name    = "Turko";
+    string surname = "Bey";
+    string mail    = "apidev@outlook.com.tr";
+    string welcome = "Welcome...";
+    return name + "\n" + surname + "\n" + mail + "\n" + welcome;
 }
-
-private static void Detaylar()
+private static string Detaylar()
 {
-    string adi         = "Turko";
-    string soyadi      = "Bey";
-    string posta       = "apidev@outlook.com.tr";
-    string hosgeldiniz = "Hoşgeldiniz...";
+    string adi       = "Turko";
+    string soyadi    = "Bey";
+    string posta     = "apidev@outlook.com.tr";
+    string hosgeldin = "Hoşgeldiniz...";
+    return adi + "\n" + soyadi + "\n" + posta + "\n" + hosgeldin;
 }
 ```
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=TurkoBey&label=Profile%20views&color=0e75b6&style=flat" alt="TurkoBey" /> </p> 
