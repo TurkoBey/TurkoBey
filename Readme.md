@@ -22,7 +22,7 @@ private static void Details()
 	string name        = "Turko";
 	string surname     = "Bey";
 	string mail        = "apidev@outlook.com.tr";
-	string welcome     = "Welcome..";
+	string welcome     = "Welcome...";
 }
 
 private static void Detaylar()
@@ -30,7 +30,7 @@ private static void Detaylar()
 	string adi         = "Turko";
 	string soyadi      = "Bey";
 	string posta       = "apidev@outlook.com.tr";
-	string hosgeldiniz = "Hoşgeldiniz..";
+	string hosgeldiniz = "Hoşgeldiniz...";
 }
 ```
   ![TurkoBey'in GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=TurkoBey&show_icons=true&theme=dark)<br><br>
