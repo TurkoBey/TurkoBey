@@ -27,7 +27,8 @@ private static string Details()
     string surname = "Bey";
     string mail    = "apidev@outlook.com.tr";
     string welcome = "Welcome...";
-    return name + "\n" + surname + "\n" + mail + "\n" + welcome;
+    string youtube = "https://www.youtube.com/channel/UC6XD5AUH5o_los3RY4CqIHQ";
+    return name + surname + mail + welcome + youtube;
 }
 private static string Detaylar()
 {
@@ -35,7 +36,8 @@ private static string Detaylar()
     string soyadi    = "Bey";
     string posta     = "apidev@outlook.com.tr";
     string hosgeldin = "Hoşgeldiniz...";
-    return adi + "\n" + soyadi + "\n" + posta + "\n" + hosgeldin;
+    string youtube = "https://www.youtube.com/channel/UC6XD5AUH5o_los3RY4CqIHQ";
+    return adi + soyadi + posta + hosgeldin + youtube;
 }
 ```
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=TurkoBey&label=Profile%20views&color=0e75b6&style=flat" alt="TurkoBey" /> </p> 
