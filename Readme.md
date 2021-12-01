@@ -21,6 +21,7 @@ static void Main(string[] args)
     }
     Console.ReadLine();
 }
+
 private static string Details()
 {
     string name    = "Turko";
@@ -30,6 +31,7 @@ private static string Details()
     string youtube = "https://www.youtube.com/channel/UC6XD5AUH5o_los3RY4CqIHQ";
     return name + surname + mail + welcome + youtube;
 }
+
 private static string Detaylar()
 {
     string adi       = "Turko";
