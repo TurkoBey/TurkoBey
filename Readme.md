@@ -36,7 +36,7 @@ private static string Detaylar()
     string soyadi    = "Bey";
     string posta     = "apidev@outlook.com.tr";
     string hosgeldin = "Hoşgeldiniz...";
-    string youtube = "https://www.youtube.com/channel/UC6XD5AUH5o_los3RY4CqIHQ";
+    string youtube   = "https://www.youtube.com/channel/UC6XD5AUH5o_los3RY4CqIHQ";
     return adi + soyadi + posta + hosgeldin + youtube;
 }
 ```
