@@ -1,4 +1,4 @@
-# Hi, I'm TurkoBey 👋
+# Hi, I'm TurkoBEY 👋
 
 ```csharp
 private static string lang;
